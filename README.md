@@ -1,11 +1,18 @@
-<!-- Header section with typewriter effect -->
+<!-- TOP HEADER: Waving gradient neon banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Sineha%20Kumari&fontSize=80&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Innovator&descAlignY=60&descAlign=50&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF9D&height=300&section=header&text=Sineha%20Kumari&fontSize=90&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Innovator&descAlignY=55&descAlign=50&animation=fadeIn" width="100%" />
 </div>
 
+<!-- VISITOR COUNT -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sineha123&label=PROFILE%20VIEWS&color=00FF9D&style=for-the-badge" alt="Profile Views" />
+</div>
+<br>
+
+<!-- SOCIAL BADGES -->
 <div align="center">
   <a href="https://linkedin.com/in/sineha-kumari-050a63265/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:sineha@szabist.pk" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -15,103 +22,119 @@
   </a>
 </div>
 
-<br>
-
+<!-- TYPING SVG ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&height=50&lines=Software+Engineering+Student+%40+SZABIST;Full+Stack+Web+Developer;Exploring+Artificial+Intelligence+%26+ML;Building+Future-Ready+Tech+Solutions;Open+to+Opportunities!" alt="Typing SVG" />
+  <a href="https://github.com/Sineha123">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&height=50&lines=System.out.println(%22Hello+World!%22);Full+Stack+Web+Developer;Exploring+Machine+Learning+%26+AI;Building+Scalable+Solutions;%3C%2F%3E+Coding+the+Future" alt="Typing effect" />
+  </a>
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="35" height="35" align="center" /> About Me
+### 👨‍💻 _The Dev Behind The Screen_
 
-I am a **Software Engineering student** (SZABIST University '27) based in Hyderabad, Pakistan, specializing in **Full Stack Web Development** with a growing focus on **Artificial Intelligence (AI)** and **Machine Learning (ML)**. I thrive at the intersection of frontend elegance and backend robustness, creating intelligent, data-driven applications.
+<!-- THEMED GITHUB SNAKE ANIMATION ALIGNED RIGHT -->
+<div align="right">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sineha123/Sineha123/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sineha123/Sineha123/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sineha123/Sineha123/output/github-contribution-grid-snake-dark.svg" width="400" align="right" onerror="this.onerror=null;this.src='https://github.com/meryt-me/readme-snake/blob/master/github-contribution-grid-snake.gif?raw=true';"/>
+  </picture>
+</div>
 
-<table>
+<!-- CODE BLOCK STYLE ABOUT ME -->
+```javascript
+const Sineha = {
+  pronouns: "she" | "her",
+  techStack: ["Python", "PHP", "JavaScript", "HTML", "CSS", "SQL"],
+  frameworks: ["React", "Express", "Node.js", "Bootstrap", "Tailwind"],
+  architecture: ["Microservices", "REST APIs", "Data-Driven Apps"],
+  currentFocus: "Artificial Intelligence & Machine Learning Algorithms",
+  internship: "Machine Learning Intern @ Arch Technologies",
+  education: "Software Engineering @ SZABIST University ('27)",
+  awards: "Best Performance Award in NAVTTC Web Dev Course"
+};
+```
+
+<!-- INTERACTIVE EXPANDABLE SECTIONS -->
+<details>
+<summary>💡 <b>Click to expand my Professional Highlights! (Interactive)</b></summary>
+<br>
+  
+- 🎓 **Academics**: Currently pursuing a BE in Software Engineering at **SZABIST University**, maintaining top grades.
+- 💼 **Experience**: Working as an **ML Intern** at Arch Technologies; previously built robust web solutions at Al-hussain Enterprises and iTeck Solution.
+- 🎯 **Mission**: Combining frontend elegance with backend robustness to craft software that solves real-world challenges, with a booming emphasis on building and deploying intelligent AI-driven systems globally.
+- ❤️ **Volunteering**: Actively involved in campus events, serving as a student volunteer for the 12th Annual Convocation.
+</details>
+
+<br>
+
+---
+
+### 🚀 _My Tech Arsenal & Ecosystem_
+
+<div align="center">
+
+| Core Languages | Frontend Mastery | Backend & Database |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=python,php,js,cpp&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,html,css,jquery,bootstrap,tailwind&theme=dark" /> | <img src="https://skillicons.dev/icons?i=mysql,mongodb,nodejs,express&theme=dark" /> |
+
+| AI & ML Tools (Current Focus) | Development Tools & Platforms |
+| :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,jupyter&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,arduino,linux&theme=dark" /> |
+
+</div>
+
+---
+
+### 📊 _The Command Center (GitHub Analytics)_
+
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="50%" valign="top">
-      <h4>🌱 Currently Learning:</h4>
-      <ul>
-        <li>Advanced Machine Learning Algorithms</li>
-        <li>Data-Driven & AI-powered Applications</li>
-        <li>System Architecture & API Integrations</li>
-      </ul>
-      <h4>💼 Experience:</h4>
-      <ul>
-        <li><b>ML Intern</b> @ Arch Technologies <i>(Current)</i></li>
-        <li><b>Web Developer</b> @ Al-hussain Enterprises <i>(Nov '24 - Feb '25)</i></li>
-        <li><b>Web Dev Intern</b> @ iTeck Solution <i>(May '24 - Jun '24)</i></li>
-      </ul>
+    <td align="center" width="50%" style="border: none;">
+      <b>🏆 GitHub Overview</b><br><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=Sineha123&show_icons=true&hide_border=true&title_color=00FF9D&icon_color=00FF9D&text_color=ffffff&bg_color=0d1117&theme=radical&include_all_commits=true&count_private=true" alt="Stats" />
     </td>
-    <td width="50%" valign="top">
-      <h4>🎯 Goals:</h4>
-      <ul>
-        <li>Work on real-world AI/ML projects</li>
-        <li>Contribute to groundbreaking research</li>
-        <li>Develop impactful digital solutions globally</li>
-      </ul>
-      <h4>🏆 Achievements:</h4>
-      <ul>
-        <li><b>Best Performance Award</b> in NAVTTC Web Development course.</li>
-        <li>Volunteer @ SZABIST 12th Annual Convocation.</li>
-      </ul>
+    <td align="center" width="50%" style="border: none;">
+      <b>🔥 Contribution Streak</b><br><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sineha123&hide_border=true&currStreakLabel=00FF9D&fire=00FF9D&ring=00FF9D&text_color=ffffff&bg_color=0d1117&theme=radical" alt="Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" style="border: none;">
+      <b>💻 Language Distribution</b><br><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sineha123&layout=compact&hide_border=true&title_color=00FF9D&text_color=ffffff&bg_color=0d1117&theme=radical" alt="Langs" />
+    </td>
+    <td align="center" width="50%" style="border: none;">
+      <b>📜 Daily Developer Quote</b><br><br>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0d1117&text_color=ffffff" alt="Quote" />
     </td>
   </tr>
 </table>
 
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" align="center" /> Tech Stack & Tools
-
-<p align="center">
-  <b>Frontend</b><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,bootstrap,tailwind,figma&theme=dark" />
-</p>
-<p align="center">
-  <b>Backend & Database</b><br>
-  <img src="https://skillicons.dev/icons?i=php,python,mysql,mongodb,nodejs,express&theme=dark" />
-</p>
-<p align="center">
-  <b>Tools & Others</b><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,wordpress,linux,postman&theme=dark" />
-</p>
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Trophy.png" alt="Trophy" width="35" height="35" align="center" /> GitHub Trophies
+<br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sineha123&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="Trophy" width="100%" />
-</div>
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" align="center" /> GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sineha123&show_icons=true&hide_border=true&title_color=00FF9D&icon_color=00FF9D&text_color=ffffff&bg_color=0d1117&theme=radical&include_all_commits=true&count_private=true" alt="Sineha's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sineha123&hide_border=true&currStreakLabel=00FF9D&fire=00FF9D&ring=00FF9D&text_color=ffffff&bg_color=0d1117&theme=radical" alt="Sineha's Streak" width="48%" />
+  <b>✨ GitHub Trophy Cabinet ✨</b><br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sineha123&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophy" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sineha123&layout=compact&hide_border=true&title_color=00FF9D&text_color=ffffff&bg_color=0d1117&theme=radical" alt="Top Languages" width="48%" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0d1117&text_color=ffffff" alt="Dev Quote" width="48%" />
+  <b>📈 Activity Fluctuation Graph</b><br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sineha123&theme=github-compact&hide_border=true&bg_color=0d1117&color=00FF9D&line=00FF9D&point=ffffff" alt="Activity Graph" width="100%" />
+</div>
+
+---
+
+### ⚡ _Top Pinned Repository Preview_
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sineha123&repo=Sineha123&theme=radical&bg_color=0d1117&hide_border=true&title_color=00FF9D&icon_color=00FF9D&text_color=e6e6e6" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sineha123&theme=react-dark&hide_border=true&bg_color=0d1117&color=00FF9D&line=00FF9D&point=ffffff" alt="Activity Graph" width="100%" />
-</div>
-
----
-
-<div align="center">
-  <i>"Combining frontend and backend expertise with problem-solving and innovation to drive global digital solutions."</i>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9D,100:000000&height=100&section=footer" width="100%"/>
 </div>
