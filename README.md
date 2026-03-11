@@ -1,6 +1,6 @@
 <!-- TOP HEADER: Waving gradient neon banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF9D&height=300&section=header&text=Sineha%20Kumari&fontSize=90&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Innovator&descAlignY=55&descAlign=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF9D&height=300&section=header&text=Sineha%20Kumari&fontSize=90&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Innovator&descAlignY=55&descAlign=50&animation=twinkling" width="100%" />
 </div>
 
 <!-- VISITOR COUNT -->
@@ -38,7 +38,8 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sineha123/Sineha123/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sineha123/Sineha123/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sineha123/Sineha123/output/github-contribution-grid-snake-dark.svg" width="400" align="right" onerror="this.onerror=null;this.src='https://github.com/meryt-me/readme-snake/blob/master/github-contribution-grid-snake.gif?raw=true';"/>
+    <!-- The snake graphic will populate once the GitHub Action is properly configured. Showing a fallback for now. -->
+    <img alt="github contribution grid snake animation" src="https://github.com/meryt-me/readme-snake/blob/master/github-contribution-grid-snake.gif?raw=true" width="400" align="right"/>
   </picture>
 </div>
 
@@ -71,6 +72,17 @@ const Sineha = {
 
 ---
 
+### ⏳ _Experience Timeline_
+
+> 🚀 **2024 - Present** | Machine Learning Intern @ **Arch Technologies**
+> 💻 **Nov 2024 - Feb 2025** | Web Developer @ **Al-hussain Enterprises Pvt. Ltd.**
+> 🌱 **May 2024 - Jun 2024** | Web Developer Intern @ **iTeck Solution**
+> 🎓 **Aug 2023 - Present** | Software Engineering Student @ **SZABIST University**
+
+<br>
+
+---
+
 ### 🚀 _My Tech Arsenal & Ecosystem_
 
 <div align="center">
@@ -84,6 +96,23 @@ const Sineha = {
 | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,jupyter&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,arduino,linux&theme=dark" /> |
 
 </div>
+
+<br>
+
+---
+
+### ⚡ _Featured Projects (Dynamic)_
+<div align="center">
+  <a href="https://github.com/Sineha123">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sineha123&repo=Sineha123&theme=radical&bg_color=0d1117&hide_border=true&title_color=00FF9D&icon_color=00FF9D&text_color=e6e6e6" width="48%" />
+  </a>
+  <!-- You can replace "YOUR_REPO_NAME" below with the actual name of your best project repo! -->
+  <a href="https://github.com/Sineha123">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sineha123&repo=YOUR_REPO_NAME&theme=radical&bg_color=0d1117&hide_border=true&title_color=00FF9D&icon_color=00FF9D&text_color=e6e6e6" width="48%" />
+  </a>
+</div>
+
+<br>
 
 ---
 
@@ -106,8 +135,8 @@ const Sineha = {
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sineha123&layout=compact&hide_border=true&title_color=00FF9D&text_color=ffffff&bg_color=0d1117&theme=radical" alt="Langs" />
     </td>
     <td align="center" width="50%" style="border: none;">
-      <b>📜 Daily Developer Quote</b><br><br>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0d1117&text_color=ffffff" alt="Quote" />
+      <b>📜 Dynamic Developer Joke</b><br><br>
+      <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true&bgColor=0d1117&textColor=ffffff&qColor=00FF9D&aColor=ffffff" alt="Jokes Card" />
     </td>
   </tr>
 </table>
@@ -127,13 +156,6 @@ const Sineha = {
 </div>
 
 ---
-
-### ⚡ _Top Pinned Repository Preview_
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sineha123&repo=Sineha123&theme=radical&bg_color=0d1117&hide_border=true&title_color=00FF9D&icon_color=00FF9D&text_color=e6e6e6" />
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9D,100:000000&height=100&section=footer" width="100%"/>
